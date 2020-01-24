@@ -1,0 +1,17 @@
+{
+  "name": "AgendaJobs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "agenda": "^2.3.0",
+    "moment-timezone": "^0.5.27",
+    "mongodb": "^3.5.2",
+    "worker-farm": "^1.7.0"
+  }
+}
